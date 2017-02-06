@@ -64,7 +64,7 @@ See also the general topics below, especially data structures and algorithms.
 - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (also known as CLRS, a famous algorithms book)
 - [Big O in Plain English](http://stackoverflow.com/a/487278)
 - [Boyer–Moore–Horspool algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore%E2%80%93Horspool_algorithm) (fast substring search, used notably in `grep`)
-- [Knuth-Morris-Pratt Algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorith)
+- [Knuth-Morris-Pratt Algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
 - [Burrows–Wheeler transform](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform) (decreases entropy in data reversibly, used notably in `bzip2`)
 - [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding) (tree for generating optimal prefix codes, used a lot in compression)
 - [Bucket Sort](https://en.wikipedia.org/wiki/Bucket_sort), [Tree Sort](https://en.wikipedia.org/wiki/Tree_sort), [Radix Sort](https://en.wikipedia.org/wiki/Radix_sort)
