@@ -69,7 +69,7 @@ See also the general topics below, especially data structures and algorithms.
 - [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding) (tree for generating optimal prefix codes, used a lot in compression)
 - [Bucket Sort](https://en.wikipedia.org/wiki/Bucket_sort), [Tree Sort](https://en.wikipedia.org/wiki/Tree_sort), [Radix Sort](https://en.wikipedia.org/wiki/Radix_sort)
 - Pathfinding / Graph Searching
-  - [Depth First Search](https://en.wikipedia.org/wiki/Depth-first_search),[Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search) (basic graph traversal algorithm)
+  - [Depth First Search](https://en.wikipedia.org/wiki/Depth-first_search), [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search) (basic graph traversal algorithm)
   - [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra's_algorithm) (general shortest-path pathfinding / graph traversal)
   - [A*](https://en.wikipedia.org/wiki/A*_search_algorithm) (Dijkstra's algorithm with heuristics, very commonly used)
   - [D* Lite](https://en.wikipedia.org/wiki/D*#D.2A_Lite)
